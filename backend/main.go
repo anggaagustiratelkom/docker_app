@@ -1,13 +1,13 @@
 package main
 
 import (
-	"fmt"
-	"log"
-	"net/http"
+	// "fmt"
+	// "log"
+	// "net/http"
 
-	"github.com/anggaagustiratelkom/docker_app/backend/db"
-	"github.com/anggaagustiratelkom/docker_app/backend/handler"
-	_ "github.com/lib/pq"
+	// "github.com/anggaagustiratelkom/docker_app/backend/db"
+	// "github.com/anggaagustiratelkom/docker_app/backend/handler"
+	// _ "github.com/lib/pq"
 )
 
 func main() {
