@@ -1,11 +1,11 @@
 package main
 
 import (
-	// "fmt"
-	// "log"
-	// "net/http"
+	"database/sql"
+	"fmt"
+	"os"
 
-	// "github.com/anggaagustiratelkom/docker_app/backend/db"
+	"github.com/anggaagustiratelkom/docker_app/backend/schema"
 	// "github.com/anggaagustiratelkom/docker_app/backend/handler"
 	// _ "github.com/lib/pq"
 )
