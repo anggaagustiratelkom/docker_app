@@ -3,7 +3,7 @@ package handler
 import (
 	"net/http"
 
-	"github.com/anggaagustiratelkom/docker_app/backend/db"
+	"github.com/girikuncoro/belajar-docker-pemula/backend/db"
 )
 
 func InitRoutes(postgres *db.Postgres) *http.ServeMux {

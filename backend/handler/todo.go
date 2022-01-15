@@ -5,9 +5,9 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/anggaagustiratelkom/docker_app/backend/db"
-	"github.com/anggaagustiratelkom/docker_app/backend/schema"
-	"github.com/anggaagustiratelkom/docker_app/backend/service"
+	"github.com/girikuncoro/belajar-docker-pemula/backend/db"
+	"github.com/girikuncoro/belajar-docker-pemula/backend/schema"
+	"github.com/girikuncoro/belajar-docker-pemula/backend/service"
 )
 
 type todoHandler struct {

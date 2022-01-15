@@ -1,13 +1,13 @@
 package main
 
 import (
-	"database/sql"
 	"fmt"
-	"os"
+	"log"
+	"net/http"
 
-	"github.com/anggaagustiratelkom/docker_app/backend/schema"
-	// "github.com/anggaagustiratelkom/docker_app/backend/handler"
-	// _ "github.com/lib/pq"
+	"github.com/girikuncoro/belajar-docker-pemula/backend/db"
+	"github.com/girikuncoro/belajar-docker-pemula/backend/handler"
+	_ "github.com/lib/pq"
 )
 
 func main() {
